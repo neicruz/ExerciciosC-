@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.exe
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.deps.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ref\ExercicioFixacaoMetodosAbstract.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\bin\Debug\net5.0\ExercicioFixacaoMetodosAbstract.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ref\ExercicioFixacaoMetodosAbstract.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoMetodosAbstract\ExercicioFixacaoMetodosAbstract\obj\Debug\net5.0\ExercicioFixacaoMetodosAbstract.genruntimeconfig.cache

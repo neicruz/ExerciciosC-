@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.exe
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.deps.json
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.dll
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ref\ExercicioArquivos3.dll
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\bin\Debug\net5.0\ExercicioArquivos3.pdb
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.dll
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ref\ExercicioArquivos3.dll
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.pdb
+C:\Users\neicr\source\repos\ExercicioArquivos3\ExercicioArquivos3\obj\Debug\net5.0\ExercicioArquivos3.genruntimeconfig.cache

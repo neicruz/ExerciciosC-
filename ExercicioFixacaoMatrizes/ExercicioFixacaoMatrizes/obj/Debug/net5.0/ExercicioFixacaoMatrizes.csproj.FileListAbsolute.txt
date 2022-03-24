@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.exe
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.deps.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ref\ExercicioFixacaoMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net5.0\ExercicioFixacaoMatrizes.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ref\ExercicioFixacaoMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net5.0\ExercicioFixacaoMatrizes.genruntimeconfig.cache

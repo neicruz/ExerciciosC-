@@ -1,0 +1,42 @@
+﻿@model WebApplication1.Models.Tema
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Tema</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tem_descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tem_descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tem_momento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tem_momento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Usu_login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Usu_login)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

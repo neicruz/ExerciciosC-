@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.exe
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.deps.json
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.runtimeconfig.json
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.dll
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ref\ClassePath.dll
+C:\Users\neicr\source\repos\ClassePath\ClassePath\bin\Debug\net5.0\ClassePath.pdb
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.dll
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ref\ClassePath.dll
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.pdb
+C:\Users\neicr\source\repos\ClassePath\ClassePath\obj\Debug\net5.0\ClassePath.genruntimeconfig.cache

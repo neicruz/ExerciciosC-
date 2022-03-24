@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.exe
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.deps.json
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.runtimeconfig.json
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.dll
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\ref\AulaEnumerat.dll
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\bin\Debug\net5.0\AulaEnumerat.pdb
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.AssemblyInfo.cs
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.dll
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\ref\AulaEnumerat.dll
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.pdb
+C:\Users\neicr\source\repos\AulaEnumerat\AulaEnumerat\obj\Debug\net5.0\AulaEnumerat.genruntimeconfig.cache

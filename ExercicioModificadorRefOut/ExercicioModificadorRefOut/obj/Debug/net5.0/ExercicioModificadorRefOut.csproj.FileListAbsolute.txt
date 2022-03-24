@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.exe
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.deps.json
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.dll
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ref\ExercicioModificadorRefOut.dll
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\bin\Debug\net5.0\ExercicioModificadorRefOut.pdb
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.dll
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ref\ExercicioModificadorRefOut.dll
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.pdb
+C:\Users\neicr\source\repos\ExercicioModificadorRefOut\ExercicioModificadorRefOut\obj\Debug\net5.0\ExercicioModificadorRefOut.genruntimeconfig.cache

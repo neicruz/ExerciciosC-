@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.exe
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.deps.json
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.runtimeconfig.json
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.dll
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\ref\EmumExercicios.dll
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\bin\Debug\net5.0\EmumExercicios.pdb
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.AssemblyInfo.cs
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.dll
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\ref\EmumExercicios.dll
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.pdb
+C:\Users\neicr\source\repos\EmumExercicios\EmumExercicios\obj\Debug\net5.0\EmumExercicios.genruntimeconfig.cache

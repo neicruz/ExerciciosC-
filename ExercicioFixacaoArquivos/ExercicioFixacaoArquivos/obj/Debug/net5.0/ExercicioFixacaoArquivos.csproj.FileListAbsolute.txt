@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.exe
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.deps.json
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ref\ExercicioFixacaoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net5.0\ExercicioFixacaoArquivos.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ref\ExercicioFixacaoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net5.0\ExercicioFixacaoArquivos.genruntimeconfig.cache

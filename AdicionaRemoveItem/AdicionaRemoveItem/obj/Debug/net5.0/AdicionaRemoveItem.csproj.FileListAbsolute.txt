@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.exe
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.deps.json
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.runtimeconfig.json
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.dll
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\ref\AdicionaRemoveItem.dll
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\bin\Debug\net5.0\AdicionaRemoveItem.pdb
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.AssemblyInfo.cs
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.dll
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\ref\AdicionaRemoveItem.dll
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.pdb
+C:\Users\neicr\source\repos\AdicionaRemoveItem\AdicionaRemoveItem\obj\Debug\net5.0\AdicionaRemoveItem.genruntimeconfig.cache

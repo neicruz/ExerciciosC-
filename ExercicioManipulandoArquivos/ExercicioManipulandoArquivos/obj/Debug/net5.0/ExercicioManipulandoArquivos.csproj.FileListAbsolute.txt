@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.exe
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.deps.json
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ref\ExercicioManipulandoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\bin\Debug\net5.0\ExercicioManipulandoArquivos.pdb
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ref\ExercicioManipulandoArquivos.dll
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.pdb
+C:\Users\neicr\source\repos\ExercicioManipulandoArquivos\ExercicioManipulandoArquivos\obj\Debug\net5.0\ExercicioManipulandoArquivos.genruntimeconfig.cache

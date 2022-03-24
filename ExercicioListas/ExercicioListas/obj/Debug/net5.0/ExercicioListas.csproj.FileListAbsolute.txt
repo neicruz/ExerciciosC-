@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.exe
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.deps.json
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.dll
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ref\ExercicioListas.dll
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\bin\Debug\net5.0\ExercicioListas.pdb
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.dll
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ref\ExercicioListas.dll
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.pdb
+C:\Users\neicr\source\repos\ExercicioListas\ExercicioListas\obj\Debug\net5.0\ExercicioListas.genruntimeconfig.cache

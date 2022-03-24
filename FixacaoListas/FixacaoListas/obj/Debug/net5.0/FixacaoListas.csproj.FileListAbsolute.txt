@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.exe
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.deps.json
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.runtimeconfig.json
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.dll
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\ref\FixacaoListas.dll
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\bin\Debug\net5.0\FixacaoListas.pdb
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.AssemblyInfo.cs
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.dll
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\ref\FixacaoListas.dll
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.pdb
+C:\Users\neicr\source\repos\FixacaoListas\FixacaoListas\obj\Debug\net5.0\FixacaoListas.genruntimeconfig.cache

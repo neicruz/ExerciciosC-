@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.exe
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.deps.json
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.dll
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ref\ExercicioCalcRetangulo.dll
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\bin\Debug\net5.0\ExercicioCalcRetangulo.pdb
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.dll
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ref\ExercicioCalcRetangulo.dll
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.pdb
+C:\Users\neicr\source\repos\ExercicioCalcRetangulo\ExercicioCalcRetangulo\obj\Debug\net5.0\ExercicioCalcRetangulo.genruntimeconfig.cache

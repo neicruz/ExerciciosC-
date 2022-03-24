@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.exe
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.deps.json
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.dll
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ref\ExercicioNota.dll
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\bin\Debug\net5.0\ExercicioNota.pdb
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.dll
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ref\ExercicioNota.dll
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.pdb
+C:\Users\neicr\source\repos\ExercicioNota\ExercicioNota\obj\Debug\net5.0\ExercicioNota.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.exe
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.deps.json
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.runtimeconfig.json
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.dll
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\ref\Demo_Test.dll
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\bin\Debug\net5.0\Demo_Test.pdb
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.AssemblyInfo.cs
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.dll
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\ref\Demo_Test.dll
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.pdb
+C:\Users\neicr\source\repos\Demo_Test\Demo_Test\obj\Debug\net5.0\Demo_Test.genruntimeconfig.cache

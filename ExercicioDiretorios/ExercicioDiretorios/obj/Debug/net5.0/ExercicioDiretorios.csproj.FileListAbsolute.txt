@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.exe
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.deps.json
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.dll
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ref\ExercicioDiretorios.dll
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\bin\Debug\net5.0\ExercicioDiretorios.pdb
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.dll
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ref\ExercicioDiretorios.dll
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.pdb
+C:\Users\neicr\source\repos\ExercicioDiretorios\ExercicioDiretorios\obj\Debug\net5.0\ExercicioDiretorios.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.exe
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.deps.json
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.dll
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\ref\exercicioCoalescencia.dll
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\bin\Debug\net5.0\exercicioCoalescencia.pdb
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.dll
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\ref\exercicioCoalescencia.dll
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.pdb
+C:\Users\neicr\source\repos\exercicioCoalescencia\exercicioCoalescencia\obj\Debug\net5.0\exercicioCoalescencia.genruntimeconfig.cache

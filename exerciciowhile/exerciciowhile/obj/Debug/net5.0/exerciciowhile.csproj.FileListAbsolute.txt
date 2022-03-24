@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.exe
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.deps.json
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.runtimeconfig.json
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.dll
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\ref\exerciciowhile.dll
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\bin\Debug\net5.0\exerciciowhile.pdb
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.dll
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\ref\exerciciowhile.dll
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.pdb
+C:\Users\neicr\source\repos\exerciciowhile\exerciciowhile\obj\Debug\net5.0\exerciciowhile.genruntimeconfig.cache

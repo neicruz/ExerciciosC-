@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.exe
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.deps.json
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.runtimeconfig.json
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.dll
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\ref\FixacaoStatic.dll
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\bin\Debug\net5.0\FixacaoStatic.pdb
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.AssemblyInfo.cs
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.dll
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\ref\FixacaoStatic.dll
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.pdb
+C:\Users\neicr\source\repos\FixacaoStatic\FixacaoStatic\obj\Debug\net5.0\FixacaoStatic.genruntimeconfig.cache

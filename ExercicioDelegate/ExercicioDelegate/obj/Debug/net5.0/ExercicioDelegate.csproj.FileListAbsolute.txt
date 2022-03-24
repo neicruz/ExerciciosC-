@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.exe
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.deps.json
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.dll
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ref\ExercicioDelegate.dll
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\bin\Debug\net5.0\ExercicioDelegate.pdb
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.dll
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ref\ExercicioDelegate.dll
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.pdb
+C:\Users\neicr\source\repos\ExercicioDelegate\ExercicioDelegate\obj\Debug\net5.0\ExercicioDelegate.genruntimeconfig.cache

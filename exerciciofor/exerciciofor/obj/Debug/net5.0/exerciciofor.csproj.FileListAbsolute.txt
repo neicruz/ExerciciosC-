@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.exe
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.deps.json
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.runtimeconfig.json
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.dll
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\ref\exerciciofor.dll
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\bin\Debug\net5.0\exerciciofor.pdb
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.dll
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\ref\exerciciofor.dll
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.pdb
+C:\Users\neicr\source\repos\exerciciofor\exerciciofor\obj\Debug\net5.0\exerciciofor.genruntimeconfig.cache

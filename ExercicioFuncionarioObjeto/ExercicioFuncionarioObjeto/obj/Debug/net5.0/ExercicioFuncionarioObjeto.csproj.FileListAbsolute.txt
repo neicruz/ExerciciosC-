@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.exe
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.deps.json
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.dll
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ref\ExercicioFuncionarioObjeto.dll
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\bin\Debug\net5.0\ExercicioFuncionarioObjeto.pdb
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.dll
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ref\ExercicioFuncionarioObjeto.dll
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.pdb
+C:\Users\neicr\source\repos\ExercicioFuncionarioObjeto\ExercicioFuncionarioObjeto\obj\Debug\net5.0\ExercicioFuncionarioObjeto.genruntimeconfig.cache

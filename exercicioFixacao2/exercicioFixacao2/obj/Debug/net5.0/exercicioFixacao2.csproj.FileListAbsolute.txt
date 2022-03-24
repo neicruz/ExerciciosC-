@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.exe
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.deps.json
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.dll
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\ref\exercicioFixacao2.dll
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\bin\Debug\net5.0\exercicioFixacao2.pdb
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.dll
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\ref\exercicioFixacao2.dll
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.pdb
+C:\Users\neicr\source\repos\exercicioFixacao2\exercicioFixacao2\obj\Debug\net5.0\exercicioFixacao2.genruntimeconfig.cache

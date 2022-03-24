@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.exe
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.deps.json
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.runtimeconfig.json
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.dll
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\ref\SituacaoProblema1.dll
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\bin\Debug\net5.0\SituacaoProblema1.pdb
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.AssemblyInfo.cs
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.dll
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\ref\SituacaoProblema1.dll
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.pdb
+C:\Users\neicr\source\repos\SituacaoProblema1\SituacaoProblema1\obj\Debug\net5.0\SituacaoProblema1.genruntimeconfig.cache

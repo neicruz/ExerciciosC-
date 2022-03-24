@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.exe
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.deps.json
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.dll
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ref\ExercicioAbstractMetodos.dll
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\bin\Debug\net5.0\ExercicioAbstractMetodos.pdb
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.dll
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ref\ExercicioAbstractMetodos.dll
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.pdb
+C:\Users\neicr\source\repos\ExercicioAbstractMetodos\ExercicioAbstractMetodos\obj\Debug\net5.0\ExercicioAbstractMetodos.genruntimeconfig.cache

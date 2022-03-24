@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.exe
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.deps.json
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.dll
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ref\ExercicioStringBuilder.dll
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net5.0\ExercicioStringBuilder.pdb
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.dll
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ref\ExercicioStringBuilder.dll
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.pdb
+C:\Users\neicr\source\repos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net5.0\ExercicioStringBuilder.genruntimeconfig.cache

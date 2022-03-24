@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.exe
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.deps.json
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.runtimeconfig.json
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.dll
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\ref\MembroStatics.dll
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\bin\Debug\net5.0\MembroStatics.pdb
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.AssemblyInfo.cs
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.dll
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\ref\MembroStatics.dll
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.pdb
+C:\Users\neicr\source\repos\MembroStatics\MembroStatics\obj\Debug\net5.0\MembroStatics.genruntimeconfig.cache

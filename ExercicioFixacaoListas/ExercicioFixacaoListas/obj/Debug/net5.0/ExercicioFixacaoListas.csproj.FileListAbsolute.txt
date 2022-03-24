@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.exe
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.deps.json
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ref\ExercicioFixacaoListas.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net5.0\ExercicioFixacaoListas.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ref\ExercicioFixacaoListas.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net5.0\ExercicioFixacaoListas.genruntimeconfig.cache

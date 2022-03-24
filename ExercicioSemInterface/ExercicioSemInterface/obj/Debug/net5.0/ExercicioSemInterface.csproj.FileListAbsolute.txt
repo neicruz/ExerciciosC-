@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.exe
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.deps.json
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.dll
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ref\ExercicioSemInterface.dll
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\net5.0\ExercicioSemInterface.pdb
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.dll
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ref\ExercicioSemInterface.dll
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.pdb
+C:\Users\neicr\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\net5.0\ExercicioSemInterface.genruntimeconfig.cache

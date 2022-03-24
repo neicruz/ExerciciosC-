@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.exe
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.deps.json
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ref\ExercicioFixacaoEnums.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net5.0\ExercicioFixacaoEnums.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ref\ExercicioFixacaoEnums.dll
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.pdb
+C:\Users\neicr\source\repos\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net5.0\ExercicioFixacaoEnums.genruntimeconfig.cache

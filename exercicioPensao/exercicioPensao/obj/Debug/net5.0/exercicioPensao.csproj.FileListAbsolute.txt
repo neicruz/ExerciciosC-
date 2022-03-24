@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.exe
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.deps.json
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.dll
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\ref\exercicioPensao.dll
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\bin\Debug\net5.0\exercicioPensao.pdb
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.dll
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\ref\exercicioPensao.dll
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.pdb
+C:\Users\neicr\source\repos\exercicioPensao\exercicioPensao\obj\Debug\net5.0\exercicioPensao.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WebApplication1.Models.Tema>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tem_descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tem_momento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Usu_login)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tem_descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tem_momento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Usu_login)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

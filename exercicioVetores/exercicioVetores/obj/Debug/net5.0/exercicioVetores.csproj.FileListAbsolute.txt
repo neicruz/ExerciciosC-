@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.exe
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.deps.json
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.dll
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\ref\exercicioVetores.dll
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\bin\Debug\net5.0\exercicioVetores.pdb
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.dll
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\ref\exercicioVetores.dll
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.pdb
+C:\Users\neicr\source\repos\exercicioVetores\exercicioVetores\obj\Debug\net5.0\exercicioVetores.genruntimeconfig.cache

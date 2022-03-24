@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.exe
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.deps.json
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.dll
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ref\ExercicioExcecoes.dll
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net5.0\ExercicioExcecoes.pdb
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.dll
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ref\ExercicioExcecoes.dll
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.pdb
+C:\Users\neicr\source\repos\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net5.0\ExercicioExcecoes.genruntimeconfig.cache

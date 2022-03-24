@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.exe
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.deps.json
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.dll
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ref\ExercicioHerança.dll
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\bin\Debug\net5.0\ExercicioHerança.pdb
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.dll
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ref\ExercicioHerança.dll
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.pdb
+C:\Users\neicr\source\repos\ExercicioHerança\ExercicioHerança\obj\Debug\net5.0\ExercicioHerança.genruntimeconfig.cache

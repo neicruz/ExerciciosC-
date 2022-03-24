@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.exe
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.deps.json
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ref\ExercicioMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net5.0\ExercicioMatrizes.pdb
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ref\ExercicioMatrizes.dll
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.pdb
+C:\Users\neicr\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net5.0\ExercicioMatrizes.genruntimeconfig.cache

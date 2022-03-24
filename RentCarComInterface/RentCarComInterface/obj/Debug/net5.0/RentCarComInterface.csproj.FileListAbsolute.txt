@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.exe
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.deps.json
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.runtimeconfig.json
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.dll
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\ref\RentCarComInterface.dll
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\bin\Debug\net5.0\RentCarComInterface.pdb
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.AssemblyInfo.cs
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.dll
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\ref\RentCarComInterface.dll
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.pdb
+C:\Users\neicr\source\repos\RentCarComInterface\RentCarComInterface\obj\Debug\net5.0\RentCarComInterface.genruntimeconfig.cache

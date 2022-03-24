@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.exe
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.deps.json
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.dll
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\ref\exercicioForEach.dll
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\bin\Debug\net5.0\exercicioForEach.pdb
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.dll
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\ref\exercicioForEach.dll
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.pdb
+C:\Users\neicr\source\repos\exercicioForEach\exercicioForEach\obj\Debug\net5.0\exercicioForEach.genruntimeconfig.cache

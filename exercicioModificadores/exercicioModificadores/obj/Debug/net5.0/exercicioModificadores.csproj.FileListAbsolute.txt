@@ -1,0 +1,16 @@
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.exe
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.deps.json
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.runtimeconfig.json
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.runtimeconfig.dev.json
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.dll
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\ref\exercicioModificadores.dll
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\bin\Debug\net5.0\exercicioModificadores.pdb
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.csproj.AssemblyReference.cache
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.AssemblyInfoInputs.cache
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.AssemblyInfo.cs
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.csproj.CoreCompileInputs.cache
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.dll
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\ref\exercicioModificadores.dll
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.pdb
+C:\Users\neicr\source\repos\exercicioModificadores\exercicioModificadores\obj\Debug\net5.0\exercicioModificadores.genruntimeconfig.cache
